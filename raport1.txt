@@ -4,7 +4,7 @@ Obecnie wykonywane czynnoœci:
 
 - Przygotowywanie œrodowiska Unity do pracy
 
-- Poszukiwanie potrzebnych grafik na pocz¹tek
+- Poszukiwanie potrzebnych assetów na pocz¹tek
 
 - Przydzielanie poszczególnych zadañ wœród zespo³u
 
