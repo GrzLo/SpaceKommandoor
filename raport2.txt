@@ -1,0 +1,24 @@
+Projekt aplikacji mobilnej - Raport 2
+
+Wykonane zadania:
+
+- Poruszanie sie statkiem
+- Strzelanie
+- Zabijanie przeciwników
+- Spawnowanie przeciwników / przeszkód
+- Power upy
+
+- Ustawienia kamery
+- Modele statku / przeciwników
+- Skybox
+- Ekran konca poziomu
+
+Do zrobienia:
+
+- Menu glówne
+- Ustawienia + zapisywanie ustawien
+- Zapisywanie stanu gry
+- Dzwieki / muzyka
+- Bossy
+
+- Port na android'a
